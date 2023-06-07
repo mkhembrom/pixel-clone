@@ -1,3 +1,9 @@
+![App Screenshot](./public/pixel.png)
+
+![App Screenshot](./public/pixel2.png)
+
+![App Screenshot](./public/pixel3.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
